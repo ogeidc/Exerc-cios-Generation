@@ -19,6 +19,7 @@ números de 1 até ele. Ex.: o usuário entra 7, o programa vai mostrar 28, pois
 			
 		}
 		enquanto
+		
 		(numero >= c)
 		escreva(soma) 
 			}
@@ -29,7 +30,7 @@ números de 1 até ele. Ex.: o usuário entra 7, o programa vai mostrar 28, pois
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 358; 
+ * @POSICAO-CURSOR = 361; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
